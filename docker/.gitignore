@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!Dockerfile
+!Makefile
+!Techday-docker.ipynb
+!data
+!data/.gitkeep
